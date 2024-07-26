@@ -1,6 +1,7 @@
 ![logo](https://github.com/murtazakhan2595/murtazakhan2595/blob/main/Murtaza%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Ahmed Murtaza</h1>
+
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 <img align="right" alt="coding image" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
